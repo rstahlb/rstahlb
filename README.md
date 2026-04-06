@@ -12,11 +12,7 @@ I specialize in building resilient, automated infrastructure and secure, local A
 |---|---|---|
 | 🤖 | [**George — The Floating AI Orb**](https://rstahlb.github.io/Local-Agentic-Orchestrator/george.html) | Swift · Python · MLX · RL |
 | 🧩 | [**Local-Agentic-Orchestrator**](https://rstahlb.github.io/Local-Agentic-Orchestrator/index.html) | Multi-Agent · Local LLM · Privacy-First |
-| 🧬 | [**Private Document Analysis — Local RAG**](https://rstahlb.github.io/Local-Agentic-Orchestrator/rag_engineering.html) | Python · scikit-learn · Swift |
-| 🧠 | [**GPT Architecture from Scratch**](https://rstahlb.github.io/Local-Agentic-Orchestrator/gpt.html) | PyTorch · Flask · Apple Silicon |
-| 🤗 | [**Fine-Tuning LLMs on Apple Silicon**](https://rstahlb.github.io/Local-Agentic-Orchestrator/llm_guide.html) | MLX · LoRA · Ollama |
-| 📘 | [**Hugging Face LLM Guide**](https://rstahlb.github.io/Local-Agentic-Orchestrator/huggingface_guide.html) | Python · PEFT · trl · MLX |
-| 📦 | [**RFID Inventory System**](https://rstahlb.github.io/Local-Agentic-Orchestrator/rfid_deep_dive.html) | Swift · Flask · LLRP |
+
 
 ---
 
