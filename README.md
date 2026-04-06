@@ -56,6 +56,36 @@ I specialize in building resilient, automated infrastructure and secure, local A
 
 ---
 
+## 🤝 Confidential AI Engagement
+
+> *Details of this engagement are protected under a Non-Disclosure Agreement.*
+
+I recently completed a contracted AI engagement contributing to the development and fine-tuning of large language models across cross-functional teams. Key areas of responsibility included:
+
+- 🧠 **LLM Development & Training** — Hands-on work building and iteratively training language models, including dataset preparation, fine-tuning pipelines, and evaluation workflows.
+- 🔒 **Security-First Data Routing** — Designed and enforced network-aware data routing policies ensuring sensitive data remained strictly local by default, with controlled and audited external egress only where explicitly authorized.
+- 👥 **Cross-Team Collaboration** — Coordinated across diverse stakeholder groups to align model development with organizational requirements, delivery timelines, and compliance mandates.
+- 🛡️ **Process Control & Compliance** — Developed and documented security-minded process controls to satisfy organizational security requirements, producing reproducible and fully auditable workflows throughout the AI development lifecycle.
+
+*Further details are not disclosed in accordance with the terms of the agreement.*
+
+---
+
+## 💼 Open to Opportunities
+
+I am actively seeking **contract or full-time roles** in the AI and infrastructure space — particularly positions that let me operate at the intersection of both.
+
+What I'm looking for:
+
+- 🤖 Roles that leverage my hands-on experience in **LLM fine-tuning, agentic system design, and edge AI deployment** on Apple Silicon
+- 🖥 Environments where my **decade-plus background in Linux and SRE** — kernel debugging, high-availability systems, automation at scale — is a genuine asset, not an afterthought
+- 📈 Teams invested in **continued growth**, where I can deepen my AI engineering skills while contributing immediately with proven infrastructure expertise
+- 🔐 Organizations that take **privacy-first design and security** seriously — local-first compute, auditable pipelines, and responsible AI deployment
+
+If you're building at the edge of AI and infrastructure and need someone who can operate at both the kernel level and the model level — let's talk.
+
+---
+
 ## 📬 Connect
 
 > I don't use LinkedIn. Email is best.
