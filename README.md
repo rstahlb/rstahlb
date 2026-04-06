@@ -38,7 +38,7 @@ I specialize in building resilient, automated infrastructure and secure, local A
 
 ### 📬 Connect with me
 * I don't use LinkedIn.*
-* ** email: rstahlb@gmail.com
-* ** GitHub:** https://github.com/rstahlb
+* ** Email: rstahlb@gmail.com
+* ** GitHub:** [rstahlb](https://github.com)
 * ** Portfolio:** (https://rstahlb.github.io/Local-Agentic-Orchestrator/index.html)
 
