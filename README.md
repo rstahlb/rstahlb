@@ -9,7 +9,7 @@ I specialize in building resilient, automated infrastructure and secure, local A
 
 **[George: The Floating AI Orb (macOS)](https://github.io)**
 *A voice-first, privacy-focused AI companion built natively in Swift + Python.*
-- **Hybrid Compute:** Orchestrates local execution via **Apple MLX**, cascading to cloud APIs only when required to maintain data sovereignty.
+- **Hybrid Compute:** Orchestrates local execution via **Apple MLX**, cascading to cloud APIs only when required.
 - **Autonomous Agents:** Features a reinforcement learning (RL) engine for autonomous Arkanoid play and a dedicated Chess agent.
 - **System Integration:** Leverages Swift for deep macOS hardware integration and real-time voice-first interaction.
 
@@ -35,7 +35,7 @@ I specialize in building resilient, automated infrastructure and secure, local A
 ### 🏢 Industry Impact
 *   **Bell Media / Bell Canada:** SRE lead for physical-to-cloud migrations (GCP/AWS) and security agent (SentinelOne) performance optimization.
 *   **VMware:** Tier 4 Global Escalation Engineer for critical hypervisor and storage subsystem outages.
-*   **Scotiabank (Global Wealth Management):** Linux Administrator and Change Management lead; authorized and managed high-risk production deployments in a regulated financial environment.
+*   **Scotiabank (Global Wealth Management):** Linux Administrator and Change Management lead; authorized and managed high-risk production deployments.
 *   **Microsoft:** Enterprise Support Engineer focusing on cloud infrastructure stability and high-tier technical resolution.
 
 ---
