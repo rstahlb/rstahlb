@@ -13,7 +13,7 @@ I specialize in building resilient, automated infrastructure and secure, local A
 - **Autonomous Agents:** Features a reinforcement learning (RL) engine for autonomous Arkanoid play and a dedicated Chess agent.
 - **System Integration:** Native Swift build for deep macOS hardware integration.
 
-**[Local-Agentic-Orchestrator](https://github.io)**
+**[Local-Agentic-Orchestrator](https://rstahlb.github.io/Local-Agentic-Orchestrator/index.html)**
 *A modular, local-first framework for multi-agent AI execution.*
 - **Privacy-First:** Engineered for data residency and 100% local execution.
 - **Autonomous Ops:** Automating multi-step system administration using local LLMs.
@@ -23,19 +23,19 @@ I specialize in building resilient, automated infrastructure and secure, local A
 ---
 
 ### 🛠 Technical Arsenal
-*   **Public Cloud:** AWS (EC2, S3), GCP (Physical-to-Cloud Migration), VMware vSphere (ESXi).
-*   **Automation:** Ansible (Playbooks/Roles), **Python** (Custom tooling), **Swift** (macOS Native).
-*   **SRE & Ops:** Linux (RHEL/Ubuntu/Kernel Debugging), Tidal Enterprise Scheduler, SentinelOne Performance Tuning.
-*   **Local AI & ML:** Reinforcement Learning, MLX Framework, Metal Performance Shaders (MPS), RAG Engineering.
-*   **Security & Governance:** Change Management (ITIL), Risk Management, Financial Compliance.
+* **Public Cloud:** AWS (EC2, S3), GCP (Physical-to-Cloud Migration), VMware vSphere (ESXi).
+* **Automation:** Ansible (Playbooks/Roles), **Python** (Custom tooling), **Swift** (macOS Native).
+* **SRE & Ops:** Linux (RHEL/Ubuntu/Kernel Debugging), Tidal Enterprise Scheduler, SentinelOne Performance Tuning.
+* **Local AI & ML:** Reinforcement Learning, MLX Framework, Metal Performance Shaders (MPS), RAG Engineering.
+* **Security & Governance:** Change Management (ITIL), Risk Management, Financial Compliance.
 
 ---
 
 ### 🏢 Industry Impact
-*   **Bell Media / Bell Canada:** SRE lead for physical-to-cloud migrations (GCP/AWS).
-*   **VMware:** Tier 4 Global Escalation Engineer for critical hypervisor outages.
-*   **Scotiabank:** Linux Administrator and Change Management lead for Global Wealth Management.
-*   **Microsoft:** Enterprise Support Engineer focusing on cloud infrastructure stability.
+* **Bell Media / Bell Canada:** SRE lead for physical-to-cloud migrations (GCP/AWS).
+* **VMware:** Tier 4 Global Escalation Engineer for critical hypervisor outages.
+* **Scotiabank:** Linux Administrator and Change Management lead for Global Wealth Management.
+* **Microsoft:** Enterprise Support Engineer focusing on cloud infrastructure stability.
 
 ---
 
