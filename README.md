@@ -11,7 +11,7 @@ I specialize in building resilient, automated infrastructure and secure, local A
 *A voice-first, privacy-focused AI companion built natively in Swift + Python.*
 - **Hybrid Compute:** Orchestrates local execution via **Apple MLX**, cascading to cloud APIs only when required.
 - **Autonomous Agents:** Features a reinforcement learning (RL) engine for autonomous Arkanoid play and a dedicated Chess agent.
-- **System Integration:** Leverages Swift for deep macOS hardware integration.
+- **System Integration:** Native Swift build for deep macOS hardware integration.
 
 **[Local-Agentic-Orchestrator](https://github.io)**
 *A modular, local-first framework for multi-agent AI execution.*
