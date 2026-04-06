@@ -7,7 +7,7 @@ I specialize in building resilient, automated infrastructure and secure, local A
 
 ### 🚀 Featured Projects
 
-**[George: The Floating AI Orb (macOS)](https://github.io)**
+**[George: The Floating AI Orb (macOS)](https://rstahlb.github.io/Local-Agentic-Orchestrator/george.html)**
 *A voice-first, privacy-focused AI companion built natively in Swift + Python.*
 - **Hybrid Compute:** Orchestrates local execution via **Apple MLX**, cascading to cloud APIs only when required.
 - **Autonomous Agents:** Features a reinforcement learning (RL) engine for autonomous Arkanoid play and a dedicated Chess agent.
