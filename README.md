@@ -20,6 +20,12 @@ I specialize in building resilient, automated infrastructure and secure, local A
 - **Local RAG:** [Private Document Analysis](https://rstahlb.github.io/Local-Agentic-Orchestrator/rag_engineering.html) — Secure, on-premise knowledge retrieval.
 - **Hardware Optimization:** [Fine-Tuning Guide](https://rstahlb.github.io/Local-Agentic-Orchestrator/llm_guide.html) — Specialized optimization for MLX and Unified Memory.
 
+**[GPT Architecture from Scratch](https://rstahlb.github.io/Local-Agentic-Orchestrator/gpt.html)**
+*A ground-up implementation of a Generative Pre-trained Transformer (GPT) model.*
+- **Deep-Level Learning:** Developed to master the underlying mechanics of self-attention, cross-entropy loss, and backpropagation in transformer architectures.
+- **Apple Silicon Optimized:** Custom training pipeline executed entirely on M1 hardware, leveraging unified memory for efficient tensor operations.
+- **Hardware-Level Insights:** Focused on the intersection of LLM logic and local compute resource management.
+
 ---
 
 ### 🛠 Technical Arsenal
