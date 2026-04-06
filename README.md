@@ -1,5 +1,4 @@
 # Hi, I'm Robin Stahlbaum 👋 
-
 **Senior SRE | DevOps Architect | AI Orchestration Specialist**
 
 I specialize in building resilient, automated infrastructure and secure, local AI orchestration. My background spans high-stakes environments at **VMware**, **Scotiabank**, and **Bell**, where I've managed everything from kernel-level escalations to global cloud migrations. Currently focusing on **Fine-Tuning LLMs** and **Edge-AI Development** on Apple Silicon.
@@ -46,4 +45,3 @@ I specialize in building resilient, automated infrastructure and secure, local A
 * **Email:** [rstahlb@gmail.com](mailto:rstahlb@gmail.com)
 * **GitHub:** [://github.com](https://://github.com)
 * **Live Portfolio:** [Local-Agentic-Orchestrator](https://github.io)
-
