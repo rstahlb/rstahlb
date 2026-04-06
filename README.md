@@ -17,8 +17,8 @@ I specialize in building resilient, automated infrastructure and secure, local A
 *A modular, local-first framework for multi-agent AI execution.*
 - **Privacy-First:** Engineered for data residency and 100% local execution.
 - **Autonomous Ops:** Automating multi-step system administration using local LLMs.
-- **Local RAG:** [Private Document Analysis](https://github.io) — Secure, on-premise knowledge retrieval.
-- **Hardware Optimization:** [Fine-Tuning Guide](https://github.io) — Specialized optimization for MLX and Unified Memory.
+- **Local RAG:** [Private Document Analysis](https://rstahlb.github.io/Local-Agentic-Orchestrator/rag_engineering.html) — Secure, on-premise knowledge retrieval.
+- **Hardware Optimization:** [Fine-Tuning Guide](https://rstahlb.github.io/Local-Agentic-Orchestrator/llm_guide.html) — Specialized optimization for MLX and Unified Memory.
 
 ---
 
