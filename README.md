@@ -45,6 +45,22 @@ I specialize in building resilient, automated infrastructure and secure, local A
 
 ---
 
+### 🚧 Projects in the Works
+
+**[Neural Pedal Capture: SoloDallas Storm](https://github.io)**
+*Capturing analog soul through Temporal Convolutional Networks (TCN).*
+- **Deep Measurement:** Executing a 27-point physical measurement staged plan to capture the harmonic profile of the SoloDallas Storm.
+- **Inference Pipeline:** Training a TCN model for real-time response, exported via **ONNX** for low-latency execution.
+- **Deployment:** Developing a cross-platform **VST3 plugin** using the **JUCE** framework.
+
+**[iPad Pro M4 LiDAR Scanner](https://github.io)**
+*High-fidelity 3D mesh generation leveraging the M4's hardware-accelerated ray tracing.*
+- **Spatial Engineering:** Implementing **ARKit** and **RealityKit** to capture raw laser depth data into usable 3D meshes.
+- **Hardware-Specific:** Optimized for the 16GB RAM iPad Pro M4 model for large-scale environmental scanning.
+- **Full Stack:** Built with **SwiftUI** and **ModelIO** for seamless 3D file export (.USDZ/.OBJ).
+
+---
+
 ### 📬 Connect with me
 *I don't use LinkedIn.*
 * **Email:** [rstahlb@gmail.com](mailto:rstahlb@gmail.com)
