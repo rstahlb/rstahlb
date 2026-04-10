@@ -12,7 +12,7 @@ I specialize in building resilient, automated infrastructure and secure, local A
 |---|---|---|
 | 🤖 | [**George — The Floating AI Orb**](https://rstahlb.github.io/Local-Agentic-Orchestrator/george.html) | Swift · Python · MLX · RL |
 | 🧩 | [**Local-Agentic-Orchestrator**](https://rstahlb.github.io/Local-Agentic-Orchestrator/index.html) | Multi-Agent · Local LLM · Privacy-First |
-
+| 🧠 | [**George RAG Component**](https://rstahlb.github.io/Local-Agentic-Orchestrator/rag_engineering.html) | Python · Swift · scikit-learn · TF-IDF |
 
 ---
 
