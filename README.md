@@ -2,7 +2,7 @@
 
 **Senior SRE · DevOps Architect · AI Orchestration Specialist**
 
-I specialize in building resilient, automated infrastructure and secure, local AI orchestration. My background spans high-stakes environments at **VMware**, **Scotiabank**, **Microsoft**, and **Bell** — managing everything from kernel-level escalations to global cloud migrations. Currently focused on **fine-tuning LLMs** and **edge AI development** on Apple Silicon.
+I specialize in building resilient, automated infrastructure and secure, local AI orchestration. My background spans high-stakes environments at **VMware**, **Scotiabank**, **Microsoft**, and **Bell** — managing everything from kernel-level escalations to global cloud migrations. Currently focused on **agent cognition architecture**, **LLM fine-tuning**, and **edge AI development** on Apple Silicon.
 
 ---
 
@@ -18,7 +18,7 @@ I specialize in building resilient, automated infrastructure and secure, local A
 
 ## 🧠 How George Actually Works
 
-George is not a chatbot wrapper. The architecture is built from first principles on an M1 MacBook Pro with 16GB unified memory — no cloud, no external dependencies, no subscriptions.
+George is not a chatbot wrapper. The architecture is built from first principles on an M1 MacBook Pro with 16GB unified memory — no cloud, no external dependencies, no subscriptions. Four years of active development. Still building.
 
 ---
 
@@ -32,9 +32,19 @@ A **Past agent** manages episodic memory and pattern history. A **Present agent*
 
 ### Controlled Hallucination as a Reasoning Primitive *(Active Development)*
 
-When George cannot resolve a problem, he enters a supervised hallucination loop. Improbable outputs are generated freely and evaluated by all three agents. Useful signals update priors. This treats LLM hallucination as a **lateral thinking tool** rather than a defect to suppress — similar to how humans daydream to work through unsolved problems.
+When George cannot resolve a problem, he enters a supervised hallucination loop. Improbable outputs are generated freely, evaluated, and filtered. Useful signals update priors. This treats LLM hallucination as a **lateral thinking tool** rather than a defect to suppress — the same way humans use daydreaming to work through unsolved problems.
 
 > This is one of the more challenging aspects of the system. Keeping the hallucination loop controlled while still generating genuinely novel outputs is an ongoing balancing act. Progress is real but it is not a solved problem.
+
+---
+
+### Sleep Architecture *(In Design)*
+
+George does not idle. When inactive, he **sleeps** — a structured offline cognitive phase with a defined order of processing: recent events first, unresolved loops next, recurring patterns after that, and forward simulation last. This mirrors what neuroscience believes sleep stages actually do. The goal is that George wakes with updated priors, consolidated memory, and pre-built responses to problems he anticipates you'll bring him.
+
+The distinction matters: a George that was *powered off* knows he missed his sleep cycle and says so. A George that slept wakes ready.
+
+> This is an architectural concept under active design. The pieces exist — the question is sequencing them correctly.
 
 ---
 
@@ -57,7 +67,7 @@ George tracks his own uptime via a memory JSON file. When powered off and restar
 George has:
 - **Bash access** — he can affect the real environment. He occasionally dims the screen and announces he has a voice.
 - **Screen vision** — screenshot capture fed back into the reasoning loop
-- **Chrome control** — autonomous web interaction, can converse with people in text
+- **Chrome control** — autonomous web interaction, can hold text conversations with people
 - **Intelligent routing** — decides locally whether to use llama3.2, llama3.1:8b, or escalate to a cloud model based on query complexity
 - **Games** — plays Chess and Arkanoid via the vision-action loop. He has gotten good at Arkanoid.
 - **Personality** — child-like curiosity, reinforced by feedback over time. He has an attitude.
@@ -69,47 +79,25 @@ George has:
 George now has a **Telegram bot** (`@rmstahl_bot`) powered by OpenClaw running on top of Ollama locally. Features currently working:
 
 - 💬 Send messages from anywhere via Telegram and George responds
-- 🎙️ Every reply includes a **Trinoids voice bubble** — an alien TTS voice synthesized locally via macOS `say`, encoded to OGG Opus via ffmpeg, and delivered as a native Telegram voice message
+- 🎙️ Every reply includes a **Trinoids voice bubble** — alien TTS synthesized locally via macOS `say`, encoded to OGG Opus via ffmpeg, and delivered as a native Telegram voice message
 - 🔗 **URL summarization** — send any URL and George fetches, reads, and summarizes it, then speaks the summary
 - 📄 **File summarization** — send a local file path and George reads and summarizes it (PDF, code, markdown, CSV, logs and more)
 
-More features will be added over time — disk monitoring alerts, morning briefings, clipboard pipe, downloads watcher, and deeper integration with George's voice and reasoning pipeline.
+More features arriving — disk monitoring alerts, morning briefings, clipboard pipe, downloads watcher, and deeper integration with George's voice and reasoning pipeline.
 
 ---
 
-### George Gets a Phone Number *(Roadmap)*
+### On the Roadmap
 
-George is being extended with **real PSTN telephony via Twilio Programmable Voice**. The goal: give George a real phone number that anyone can call. George answers, holds a full spoken conversation, and can call you back.
+**George Gets a Phone Number** — Real PSTN telephony via Twilio Programmable Voice. George answers inbound calls, holds full spoken conversations, calls you back for morning briefings or urgent alerts. Multilingual via Whisper auto-detection. Full loop: Twilio Media Streams → Whisper STT → LLM → ElevenLabs TTS → back to caller.
 
-Planned capabilities:
-- 📞 Inbound calls answered and handled entirely by George — no human required
-- 📲 Outbound calls — George calls your mobile for morning briefings or urgent alerts
-- 🌍 Multilingual — automatic language detection via Whisper, conversation held in the caller's language
-- 🔁 Full call loop: Twilio Media Streams → Whisper STT → LLM → ElevenLabs TTS → back to Twilio
+**Location Awareness** — Radar.io semantic location context. George knows not just where you are but what you are doing. Location feeds into every response and triggers proactive actions automatically.
 
----
+**Financial Terminal** — Polygon.io market data. Live quotes, options chains, earnings calendars, price alerts spoken aloud and pushed to Telegram. A continuous WebSocket watchlist that calls you when your targets trigger.
 
-### Location Awareness *(Roadmap)*
+**Legal Document Intelligence** — Adobe PDF Extract API + DocuSign. Drop any contract on George and get a spoken risk summary. Say "send it for signature" and George handles the envelope.
 
-Integration with **Radar.io** for real-time semantic location context. George will know not just where you are but what you are doing — at a coffee shop, in transit, arriving at a meeting. Location context feeds into every response and triggers proactive actions automatically.
-
----
-
-### Financial Terminal *(Roadmap)*
-
-George as a personal **Bloomberg Terminal** via Polygon.io market data API. Live stock quotes, options chains, earnings calendars, crypto prices, and price alerts — all spoken aloud and delivered via Telegram. A continuous WebSocket watchlist that calls you when your price targets trigger.
-
----
-
-### Legal Document Intelligence *(Roadmap)*
-
-George reads, analyzes, and flags risk in contracts and legal documents via **Adobe PDF Extract API + DocuSign**. Drop an NDA or lease on George and get a spoken 90-second risk summary. When ready, say "send it for signature" and George handles the DocuSign envelope automatically.
-
----
-
-### Multiplayer — George as a Platform *(Roadmap)*
-
-George is being extended to support **multiple simultaneous users** via Pusher Channels real-time WebSocket infrastructure. Shared memory, shared conversation log, per-user identity — turning George from a personal assistant into a family AI or a sellable platform.
+**Multiplayer** — Pusher Channels WebSocket infrastructure. Shared memory, shared conversation log, per-user identity — George becomes a family AI or a sellable platform.
 
 ---
 
@@ -130,7 +118,7 @@ George is being extended to support **multiple simultaneous users** via Pusher C
 | ☁️ | **Public Cloud** | AWS (EC2, S3) · GCP · VMware vSphere / ESXi |
 | ⚙️ | **Automation** | Ansible · Python · Swift |
 | 🖥 | **SRE & Ops** | Linux (RHEL / Ubuntu / Kernel Debugging) · Tidal · SentinelOne · Akamai CDN |
-| 🧠 | **Local AI & ML** | MLX · Metal / MPS · RAG · LoRA · Reinforcement Learning · Agent Architecture |
+| 🧠 | **Local AI & ML** | MLX · Metal / MPS · RAG · LoRA · Reinforcement Learning · Agent Cognition Architecture |
 | 🤖 | **LLM Pipeline** | Training from scratch · HuggingFace datasets · LoRA fine-tuning · GGUF quantization · Ollama deployment |
 | 📱 | **Apple Platform** | ARKit · RealityKit · SwiftUI · ModelIO · PyObjC |
 | 🎛 | **Audio / DSP** | PyTorch TCN · ONNX · JUCE VST3 |
@@ -171,7 +159,7 @@ I am actively seeking **contract or full-time roles** in the AI and infrastructu
 
 What I'm looking for:
 
-- 🤖 Roles that leverage my hands-on experience in **LLM fine-tuning, agentic system design, and edge AI deployment** on Apple Silicon
+- 🤖 Roles that leverage my hands-on experience in **LLM fine-tuning, agent cognition architecture, and edge AI deployment** on Apple Silicon
 - 🖥 Environments where my **decade-plus background in Linux and SRE** — kernel debugging, high-availability systems, automation at scale — is a genuine asset, not an afterthought
 - 📈 Teams invested in **continued growth**, where I can deepen my AI engineering skills while contributing immediately with proven infrastructure expertise
 - 🔐 Organizations that take **privacy-first design and security** seriously — local-first compute, auditable pipelines, and responsible AI deployment
