@@ -26,7 +26,7 @@ George is not a chatbot wrapper. The architecture is built from first principles
 
 A **Past agent** manages episodic memory and pattern history. A **Present agent** coordinates real-time decisions and routes queries. A **Future agent** runs probability-weighted simulations of possible outcomes. All three communicate continuously — mirroring predictive processing theory in human cognition.
 
-> This architecture is a work in progress. There are real challenges — agent coordination overhead, context window constraints on a 3B model, and keeping the three agents coherent without them drifting. I'm actively working through these and moving forward iteratively.
+> This architecture is a work in progress. There are real challenges — agent coordination overhead, context window constraints on a 3B model, and keeping the three agents coherent without drifting. I'm actively working through these and moving forward iteratively.
 
 ---
 
@@ -74,6 +74,42 @@ George now has a **Telegram bot** (`@rmstahl_bot`) powered by OpenClaw running o
 - 📄 **File summarization** — send a local file path and George reads and summarizes it (PDF, code, markdown, CSV, logs and more)
 
 More features will be added over time — disk monitoring alerts, morning briefings, clipboard pipe, downloads watcher, and deeper integration with George's voice and reasoning pipeline.
+
+---
+
+### George Gets a Phone Number *(Roadmap)*
+
+George is being extended with **real PSTN telephony via Twilio Programmable Voice**. The goal: give George a real phone number that anyone can call. George answers, holds a full spoken conversation, and can call you back.
+
+Planned capabilities:
+- 📞 Inbound calls answered and handled entirely by George — no human required
+- 📲 Outbound calls — George calls your mobile for morning briefings or urgent alerts
+- 🌍 Multilingual — automatic language detection via Whisper, conversation held in the caller's language
+- 🔁 Full call loop: Twilio Media Streams → Whisper STT → LLM → ElevenLabs TTS → back to Twilio
+
+---
+
+### Location Awareness *(Roadmap)*
+
+Integration with **Radar.io** for real-time semantic location context. George will know not just where you are but what you are doing — at a coffee shop, in transit, arriving at a meeting. Location context feeds into every response and triggers proactive actions automatically.
+
+---
+
+### Financial Terminal *(Roadmap)*
+
+George as a personal **Bloomberg Terminal** via Polygon.io market data API. Live stock quotes, options chains, earnings calendars, crypto prices, and price alerts — all spoken aloud and delivered via Telegram. A continuous WebSocket watchlist that calls you when your price targets trigger.
+
+---
+
+### Legal Document Intelligence *(Roadmap)*
+
+George reads, analyzes, and flags risk in contracts and legal documents via **Adobe PDF Extract API + DocuSign**. Drop an NDA or lease on George and get a spoken 90-second risk summary. When ready, say "send it for signature" and George handles the DocuSign envelope automatically.
+
+---
+
+### Multiplayer — George as a Platform *(Roadmap)*
+
+George is being extended to support **multiple simultaneous users** via Pusher Channels real-time WebSocket infrastructure. Shared memory, shared conversation log, per-user identity — turning George from a personal assistant into a family AI or a sellable platform.
 
 ---
 
