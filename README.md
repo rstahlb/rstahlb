@@ -62,7 +62,7 @@
 * **Core Systems Mechanics:** Multi-pane three-column layout parsing global CVE feeds and tracking active software infrastructure variations against the CISA Known Exploited Vulnerabilities (KEV) catalog with visual WidgetKit alarm escalations.
 * <!-- TODO: Drag and drop your SecWatch UI .mp4 dashboard capture file directly into the line below on GitHub -->
 * <div align="center">
-  <video src="SecWatch_Demo.mp4" width="100%" controls preloaded="metadata"></video>
+  <video src="https://github.com" width="100%" controls preload="metadata"></video>
 </div>
 
 ### 📦 3. Multi-Agent Router & Local Fine-Tuning Pipeline
