@@ -51,26 +51,26 @@
 ## 📺 Active Architecture Demos & Video Captures
 > *Note: High-fidelity MP4 recordings illustrating active execution runloops are mapped below.*
 
-### 🤖 1. George AI — Autonomous Multi-Agent Edge Orchestrator
-* **Core Systems Mechanics:** Employs a three-agent cognitive layout (Past/Present/Future) executing on-device local RAG operations, voice-canvas synthesis streaming via `AVAudioEngine`, and active context-fact mining matrices natively on Apple Silicon GPU fabrics.
-* <!-- TODO: Drag and drop your George runtime .mp4 file directly into the line below on GitHub to auto-generate the video tag -->
- ### 🛡️ 2. SecWatch — Enterprise Cyber-Security Platform & Compliance Matrix
+
+ 
+ ### 🛡️ 1. SecWatch — Enterprise Cyber-Security Platform & Compliance Matrix
  * **Core Systems Mechanics:** Multi-pane three-column layout parsing global CVE feeds and tracking active software infrastructure variations against the CISA Known Exploited Vulnerabilities (KEV) catalog with visual WidgetKit alarm escalations.
  
  🎬 https://github.com/user-attachments/assets/386503a3-2cbb-4ca7-8b3b-020db119dd40
 
 
-### 📦 3. Multi-Agent Router & Local Fine-Tuning Pipeline
+### 📦 2. Multi-Agent Router & Local Fine-Tuning Pipeline
 * **Core Systems Mechanics:** Dynamic orchestration framework utilizing a judgment-parsing model (Llama 3) to evaluate prompt syntax and route computing paths to downstream specialized engines (Qwen 2.5 Coder). Tracks local state persistence.
 * <!-- TODO: Drag and drop your terminal CLI routing shell .mp4 capture file into the line below on GitHub -->
 * *[PLACEHOLDER: INSERT INTERACTIVE AI ROUTER CLI VIDEO HERE]*
 
-### 📐 4. 3D Graphics Engine Pipeline (Blender POC)
-* **Core Systems Mechanics:** Standalone C++ graphics runtime proving compilation interoperability via native Objective-C++ bridging layers to safely execute multi-threaded 4K raytraced viewport loops with real-time Jolt Physics rigid body dynamics.
+### 📐 3. 3D Graphics Engine Pipeline (Blender POC)
+* **Core Systems Mechanics:** Standalone Swift Apple Metal graphics runtime safely executes multi-threaded 4K raytraced viewport loops with real-time working on a. Jolt Physics rigid body for dynamics ( WORK IN PROGRESS).
 * <!-- TODO: Drag and drop your 4K raytracing / Jolt physics simulation .mp4 file into the line below on GitHub -->
  🎬 https://github.com/user-attachments/assets/42ee6339-60e6-49d0-82a3-fda448a58148
 
- 
+ ### 📐  3D Graphics Engine Pipeline (Jolt Engine POC)
+ 🎬 https://github.com/user-attachments/assets/1e1f7235-7c1e-4b84-935f-c9f72ad5e948
 
 
 
