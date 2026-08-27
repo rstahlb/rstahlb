@@ -94,7 +94,8 @@
 ### 🎨 12. Port to Ipad m4 , a project that is a mix of experts model, gemma 4 26b IT 4bit.  Was challenging to get working on an ipad.
 🎬 https://github.com/user-attachments/assets/251144dd-c00f-48ee-9069-752d551a56fd
 
-### 🎨 13. An mp3 wav ipad application writen in swift, focus, for guitar players to slow down a song to learn it 
+### 🎨 13. An mp3 wav ipad application writen in swift, focus, for guitar players to slow down a song to learn it.
+has custom markers that can be set by the user, and a looper, EQ section, using apple foundation. 
 🎬 https://github.com/user-attachments/assets/b4a137e7-c349-43ee-805a-091647b30b4a
 
 
