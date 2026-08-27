@@ -79,7 +79,7 @@
 * **Core Systems Mechanics:** High-precision, zero-latency vector path rendering application utilizing Apple's low-overhead PencilKit touch interaction layer with native palm-rejection matrices.
 🎬 https://github.com/user-attachments/assets/f8b6be35-3f8f-4c80-8f4d-8b81f653e5f6
 
-### 🎨 8.2 Another POC I used apples pencilkit and googles SKia engines, seeing if it would be possible to use both :)
+### 🎨 8.2 Another POC I used apples pencilkit and googles SKia engines, a shared Canvas :)
 🎬 https://github.com/user-attachments/assets/c5c36cb8-082e-45ff-b8d8-3b5daf3aec63
 
 
