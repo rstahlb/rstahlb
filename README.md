@@ -79,7 +79,8 @@
 🎬 https://github.com/user-attachments/assets/f8b6be35-3f8f-4c80-8f4d-8b81f653e5f6
 
 ### 🎨 9. Swift based MAC Widget that is both WebVIEW wrapped for quick changes to themes and simplicity. 
-Native apple for api iokit so on, can load an mp3 as your sound for warning ( warning is for battery remaining ) I dig it ! 
+Native apple for api iokit so on, can load an mp3 as your sound for warning ( warning is for battery remaining )
+I dig it ! 
 🎬 https://github.com/user-attachments/assets/1b9f7fb6-6336-4cba-ba05-880b4f522f6a
 
 ### 🎨 10. Swift based IOS Go analyser,you load a saved GO! game and the local llm on the ipad gives you a summary!! 
