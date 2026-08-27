@@ -59,7 +59,7 @@
 ### 🛡️ 2. SecWatch — Enterprise Cyber-Security Platform & Compliance Matrix
 * **Core Systems Mechanics:** Multi-pane three-column layout parsing global CVE feeds and tracking active software infrastructure variations against the CISA Known Exploited Vulnerabilities (KEV) catalog with visual WidgetKit alarm escalations.
 * <!-- TODO: Drag and drop your SecWatch UI .mp4 dashboard capture file directly into the line below on GitHub -->
-* 🎬 **(https://github.com/rstahlb/rstahlb/blob/main/SecWatch_Demo.mp4)**
+* 🎬 **(https://github.com/rstahlb/rstahlb/blob/main/secwatch_compressed.mp4)**
 
 ### 📦 3. Multi-Agent Router & Local Fine-Tuning Pipeline
 * **Core Systems Mechanics:** Dynamic orchestration framework utilizing a judgment-parsing model (Llama 3) to evaluate prompt syntax and route computing paths to downstream specialized engines (Qwen 2.5 Coder). Tracks local state persistence.
