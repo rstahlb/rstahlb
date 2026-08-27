@@ -1,6 +1,6 @@
 # Robin Stahlbaum 🛠️🧠
 ### Senior Infrastructure Engineer · Site Reliability Architect · Edge AI Engineer
-📍 Mississauga, ON | 💼 [Available for Senior SRE & Core AI Contracts] | 🌐 [rstahlb.github.io](https://rstahlb.github.io/Local-Agentic-Orchestrator/)
+📍 Mississauga, ON | 💼 [Available for Senior SRE & Core AI Contracts] | 🌐 [rstahlb.github.io](https://github.io)
 
 ---
 
@@ -15,45 +15,52 @@
 
 ---
 
-## 📺 Active Architecture Demos & Video Captures
-> *Note: High-fidelity MP4 recordings illustrating active execution runloops are mapped below.*
-
-### 🤖 1. George AI: Local Agentic Runtime Loop
-* **Core Systems Mechanics:** Watch George execute on-device local RAG operations, voice-canvas synthesis streaming via `AVAudioEngine`, and active context-fact mining matrices natively on Apple Silicon.
-* *[INSERT GEORGE ASSISTANT RUNTIME VIDEO LINK HERE]*
-
-### 🛡️ 2. SecWatch: Multi-Pane iPadOS Dashboard & CISA Alarms
-* **Core Systems Mechanics:** Video demonstration of real-time global CVE parsing, secure sandbox state storage using Keychain APIs, and interactive visual widgets rendering automated deadline escalations.
-* *[INSERT SECWATCH DASHBOARD VIDEO LINK HERE]*
-
----
-
-## 🎛️ Interactive Local AI Routing Shell (Simulation)
-```text
-╔══════════════════════════════════════════════╗
-║  AI Router Chat                              ║
-║  General  →  llama3                          ║
-║  Coding   →  qwen2.5-coder:7b                ║
-║  🧠 Memory loaded from previous sessions     ║
-╚══════════════════════════════════════════════╝
-  Commands: /history  /memory  /forget  /clear
-
-[Routing System] Active orchestration monitoring initialized. Ready at the edge.
-rstahlb@Robins-MacBook-Pro:~ $ /memory
-[SYSTEM] Extracting local memory context segments...
-  - Location Matrix: Mississauga, ON
-  - Tech Stack Footprint: Modern C++ (C++20), Swift, Python (PyTorch/MLX), Linux
-  - Security Profile: Hardened Bastion/Jump Hosts configured with SSH ProxyJump.
-```
-
----
-
 ## 🏢 Enterprise Engineering Milestones (20+ Years SRE)
 
 * **Infrastructure & Linux Administration (Total Cyber Solution):** Architected multi-agent cognition systems, engineered custom C++ graphics/render pipelines bridged via Objective-C++ to native Swift threads, and built automated CVE/CISA tracking services.
 * **Linux Admin / SRE (Bell Media & Bell Canada):** Supported global high-traffic content distribution pipelines using Akamai CDN, built and maintained scale RHEL environments on VMware/OpenStack, and automated system configurations using Ansible to eradicate deployment toil.
 * **Senior Linux Administrator (Scotiabank):** Provisioned and hardened PCI-compliant financial environments on vSphere, managed web application servers for global wealth management platforms, and constructed secure bastion jump-box entry frameworks utilizing SSH ProxyJump.
 * **Escalation & Support Engineering (VMware & Microsoft):** Resolved core hypervisor kernel defects, managed high-stakes production system incidents from open to closed, and troubleshot complex operating system bottlenecks for enterprise deployments.
+
+---
+
+## 📺 Active Architecture Demos & Video Captures
+> *Note: High-fidelity MP4 recordings illustrating active execution runloops are mapped below.*
+
+### 🤖 1. George AI — Autonomous Multi-Agent Edge Orchestrator
+* **Core Systems Mechanics:** Employs a three-agent cognitive layout (Past/Present/Future) executing on-device local RAG operations, voice-canvas synthesis streaming via `AVAudioEngine`, and active context-fact mining matrices natively on Apple Silicon GPU fabrics.
+* <!-- TODO: Drag and drop your George runtime .mp4 file directly into the line below on GitHub to auto-generate the video tag -->
+* *[PLACEHOLDER: INSERT GEORGE ASSISTANT RUNTIME VIDEO HERE]*
+
+### 🛡️ 2. SecWatch — Enterprise Cyber-Security Platform & Compliance Matrix
+* **Core Systems Mechanics:** Multi-pane three-column layout parsing global CVE feeds and tracking active software infrastructure variations against the CISA Known Exploited Vulnerabilities (KEV) catalog with visual WidgetKit alarm escalations.
+* <!-- TODO: Drag and drop your SecWatch UI .mp4 dashboard capture file directly into the line below on GitHub -->
+* *[PLACEHOLDER: INSERT SECWATCH DASHBOARD UI VIDEO HERE]*
+
+### 📦 3. Multi-Agent Router & Local Fine-Tuning Pipeline
+* **Core Systems Mechanics:** Dynamic orchestration framework utilizing a judgment-parsing model (Llama 3) to evaluate prompt syntax and route computing paths to downstream specialized engines (Qwen 2.5 Coder). Tracks local state persistence.
+* <!-- TODO: Drag and drop your terminal CLI routing shell .mp4 capture file into the line below on GitHub -->
+* *[PLACEHOLDER: INSERT INTERACTIVE AI ROUTER CLI VIDEO HERE]*
+
+### 📐 4. 3D Graphics Engine Pipeline (Blender POC)
+* **Core Systems Mechanics:** Standalone C++ graphics runtime proving compilation interoperability via native Objective-C++ bridging layers to safely execute multi-threaded 4K raytraced viewport loops with real-time Jolt Physics rigid body dynamics.
+* <!-- TODO: Drag and drop your 4K raytracing / Jolt physics simulation .mp4 file into the line below on GitHub -->
+* *[PLACEHOLDER: INSERT C++ RAYTRACER & PHYSICS ENGINE VIDEO HERE]*
+
+### 🗂️ 5. Cross-Platform Clipboard Management Utility
+* **Core Systems Mechanics:** Implements low-level `UIPasteboard` system API interception models combined with Apple's Uniform Type Identifiers (`UTType` framework) to isolate, capture, and cache multi-format binary data streams (graphics, text, URLs) into CoreData structures.
+* <!-- TODO: Drag and drop your clipboard utility runtime .mp4 file into the line below on GitHub -->
+* *[PLACEHOLDER: INSERT CLIPBOARD MANAGER UTILITY VIDEO HERE]*
+
+### 📝 6. Custom Multi-Platform Markdown Parsing Engine
+* **Core Systems Mechanics:** Native lexical text scanner that maps Markdown token trees into structured Abstract Syntax Trees (AST) using TextKit 2, handling secure system document providers and multi-platform drag-and-drop drop interaction lifecycles.
+* <!-- TODO: Drag and drop your markdown viewer text engine .mp4 file into the line below on GitHub -->
+* *[PLACEHOLDER: INSERT MARKDOWN PARSER TEXT ENGINE VIDEO HERE]*
+
+### 🎨 7. Interactive Kids Touch Canvas Engine
+* **Core Systems Mechanics:** High-precision, zero-latency vector path rendering application utilizing Apple's low-overhead PencilKit touch interaction layer with native palm-rejection matrices.
+* <!-- TODO: Drag and drop your canvas tool interaction .mp4 file into the line below on GitHub -->
+* *[PLACEHOLDER: INSERT PENCILKIT CANVAS APP VIDEO HERE]*
 
 ---
 
@@ -69,17 +76,12 @@ rstahlb@Robins-MacBook-Pro:~ $ /memory
 * **Model Engineering:** Parameter tuning using LoRA (Low-Rank Adaptation), Human Feedback Alignment (RLHF), GGUF model quantization, Apple MLX framework optimization.
 * **Apple SDK Frameworks:** RealityKit & ARKit (Spatial LiDAR mesh tracking), WidgetKit, CoreData caching, TextKit 2 layout typography.
 
-### 🛡️ Secure Access Control & DevOps Operations
-* **Hardening Profiles:** Linux Bastion/Jump Host architecture design, custom SSH ProxyJump workflows, MFA, PAM, Public-Key credential locking.
-* **Network Isolation:** Firewalld, UFW, Active Directory RBAC integration, STIG compliance engineering, Red Hat Satellite deployment controls.
-* **Observability:** SRE performance tuning monitoring logs, automated postmortem trace auditing workflows, continuous pipeline testing routines (`XCTest`, `XCUI`).
-
 ---
 
 ## 📄 Verified Engineering Assets
-* **Master Professional Resume (Markdown Format):** [View Resume Source Code](https://github.com/rstahlb/Local-Agentic-Orchestrator/blob/main/Robin_Stahlbaum_Resume.md)
-* **Interactive Live Portfolio Dashboard (Web UI):** [Launch Live Interface](https://rstahlb.github.io/Local-Agentic-Orchestrator/)
-* **Download Compiled Vector Document:** [Robin_Stahlbaum_Resume.pdf](https://rstahlb.github.io/Local-Agentic-Orchestrator/Robin_Stahlbaum_Resume.pdf)
+* **Master Professional Resume (Markdown Format):** [View Resume Source Code](https://github.com)
+* **Interactive Live Portfolio Dashboard (Web UI):** [Launch Live Interface](https://github.io)
+* **Download Compiled Vector Document:** [Robin_Stahlbaum_Resume.pdf](https://github.ioRobin_Stahlbaum_Resume.pdf)
 
 ---
 <sub>*Built with 🧠 curiosity on Apple Silicon Mac hardware. Source code architecture verified stable.*</sub>
