@@ -7,7 +7,6 @@
 ## 📄 Verified Engineering Assets
 * **Master Professional Resume (Markdown Format):** [View Resume Source Code](secwatch_compressed.mp4)
 * **Download Compiled Vector Document (Print Ready):** [Robin_Stahlbaum_Resume.pdf](https://github.io)
-* **Interactive Live Portfolio Dashboard (Web UI):** [Launch Live Interface](https://github.io)
 
 ---
 
@@ -20,13 +19,12 @@
 ## 📄 Verified Engineering Assets
 * **Master Professional Resume (Markdown Format):** [View Resume Source Code](secwatch_compressed.mp4)
 * **Download Compiled Vector Document (Print Ready):** [Robin_Stahlbaum_Resume.pdf](https://github.io)
-* **Interactive Live Portfolio Dashboard (Web UI):** [Launch Live Interface](https://github.io)
 
 ---
 
 # Robin Stahlbaum 🛠️🧠
 ### Senior Infrastructure Engineer · Site Reliability Architect · Edge AI Engineer
-📍 Mississauga, ON | 💼 [Available for Senior SRE & Core AI Contracts] | 🌐 [rstahlb.github.io](https://github.io)
+📍 Mississauga, ON | 💼 [Available for Senior SRE & Core AI Contracts]
 
 ---
 
@@ -106,7 +104,6 @@
 
 ## 📄 Verified Engineering Assets
 * **Master Professional Resume (Markdown Format):** [View Resume Source Code](secwatch_compressed.mp4)
-* **Interactive Live Portfolio Dashboard (Web UI):** [Launch Live Interface](https://github.io)
 * **Download Compiled Vector Document:** [Robin_Stahlbaum_Resume.pdf](https://github.ioRobin_Stahlbaum_Resume.pdf)
 
 ---
