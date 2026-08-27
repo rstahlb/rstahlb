@@ -76,8 +76,7 @@
 
 ### 🗂️ 4. Cross-Platform Clipboard Management Utility
 * **Core Systems Mechanics:** Implements low-level `UIPasteboard` system API interception models combined with Apple's Uniform Type Identifiers (`UTType` framework) to isolate, capture, and cache multi-format binary data streams (graphics, text, URLs) into CoreData structures.
-🎬 https://github.com/user-attachments/assets/f8b6be35-3f8f-4c80-8f4d-8b81f653e5f6
-
+🎬 https://github.com/user-attachments/assets/bc62b107-bf53-4de4-80d2-01eabcbb20f2
 
 ### 📝 5. Custom Multi-Platform Markdown Parsing Engine
 * **Core Systems Mechanics:** Native lexical text scanner that maps Markdown token trees into structured Abstract Syntax Trees (AST) using TextKit 2, handling secure system document providers and multi-platform drag-and-drop drop interaction lifecycles.
@@ -88,7 +87,7 @@
 ### 🎨 6. Interactive Kids Touch Canvas Engine
 * **Core Systems Mechanics:** High-precision, zero-latency vector path rendering application utilizing Apple's low-overhead PencilKit touch interaction layer with native palm-rejection matrices.
 * <!-- TODO: Drag and drop your canvas tool interaction .mp4 file into the line below on GitHub -->
-🎬 https://github.com/user-attachments/assets/bc62b107-bf53-4de4-80d2-01eabcbb20f2
+🎬 https://github.com/user-attachments/assets/f8b6be35-3f8f-4c80-8f4d-8b81f653e5f6
 
 
 
