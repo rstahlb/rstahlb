@@ -87,8 +87,12 @@
 🎬 https://github.com/user-attachments/assets/34fe935a-5dab-40f6-8e2c-7411af299146
 
 ### 🎨 11. Swift Screen Magnifier called Zoomy, Great for those who need it !
-🎬 https://github.com/user-attachments/assets/45b40bbe-fcba-452e-9616-eaf2e957873d
+🎬 https://github.com/user-attachments/assets/5425b63e-d1ab-4214-9de3-11c4326fc382
 <img width="786" height="311" alt="image" src="https://github.com/user-attachments/assets/2f8df510-be7c-46ca-8340-223743bc6d01" />
+
+
+
+
 
 
 
