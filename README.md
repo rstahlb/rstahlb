@@ -92,8 +92,12 @@
 <img width="786" height="311" alt="image" src="https://github.com/user-attachments/assets/2f8df510-be7c-46ca-8340-223743bc6d01" />
 
 ### 🎨 12. Port to Ipad m4 , a project that is a mix of experts model, gemma 4 26b IT 4bit.  Was challenging to get working on an ipad.
-
 🎬 https://github.com/user-attachments/assets/251144dd-c00f-48ee-9069-752d551a56fd
+
+### 🎨 13. An mp3 wav ipad application writen in swift, focus, for guitar players to slow down a song to learn it 
+🎬 https://github.com/user-attachments/assets/b4a137e7-c349-43ee-805a-091647b30b4a
+
+
 
 
 
