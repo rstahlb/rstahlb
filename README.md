@@ -5,7 +5,7 @@
 
 20+ years architecting and hardening enterprise Linux infrastructure — from PCI-compliant banking systems at Scotiabank to global media delivery platforms at Bell. More recently, applying that same systems-engineering discipline to edge AI: on-device multi-agent orchestration, local model fine-tuning, and native Apple-platform tooling built in Swift.
 
-**📄 Resume:**[Robin_Stahlbaum_Resume.pdf](https://github.com/user-attachments/files/31531934/Robin_Stahlbaum_Resume.pdf)
+**📄 Resume:** [Robin_Stahlbaum_Resume.pdf](https://github.com/user-attachments/files/31531934/Robin_Stahlbaum_Resume.pdf)
 
 ---
 
