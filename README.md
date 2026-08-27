@@ -1,6 +1,6 @@
 # 🚀 AI Project Portfolio & Systems Engineering Core
 **Robin Stahlbaum** · Senior SRE & Edge AI Systems Architect 
-📍 Mississauga, ON | 🌐 [Live Interactive Interface](https://github.io)
+📍 Mississauga, ON 
 
 ---
 
