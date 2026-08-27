@@ -93,7 +93,10 @@
 ### 🎨 7. Swift based MAC Widget that is both WebVIEW wrapped for quick changes to themes and simplicity. 
 Native apple for api iokit so on, can load an mp3 as your sound for warning ( warning is for battery remaining ) I dig it ! 
 *
-🎬 https://github.com/user-attachments/assets/93a1b601-3835-465e-8ecc-63b737e5301a
+🎬 https://github.com/user-attachments/assets/1b9f7fb6-6336-4cba-ba05-880b4f522f6a
+
+
+
 
 
 * <!-- TODO: Drag and drop your canvas tool interaction .mp4 file into the line below on GitHub -->
