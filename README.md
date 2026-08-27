@@ -42,55 +42,50 @@
  
  ### 🛡️ 1. SecWatch — Enterprise Cyber-Security Platform & Compliance Matrix
  * **Core Systems Mechanics:** Multi-pane three-column layout parsing global CVE feeds and tracking active software infrastructure variations against the CISA Known Exploited Vulnerabilities (KEV) catalog with visual WidgetKit alarm escalations.
- 
  🎬 https://github.com/user-attachments/assets/386503a3-2cbb-4ca7-8b3b-020db119dd40
 
 
 ### 📦 2. Multi-Agent Router & Local Fine-Tuning Pipeline
 * **Core Systems Mechanics:** Dynamic orchestration framework utilizing a judgment-parsing model (Llama 3) to evaluate prompt syntax and route computing paths to downstream specialized engines (Qwen 2.5 Coder). Tracks local state persistence.
 * <!-- TODO: Drag and drop your terminal CLI routing shell .mp4 capture file into the line below on GitHub -->
-* *[PLACEHOLDER: INSERT INTERACTIVE AI ROUTER CLI VIDEO HERE]*
+*<img width="777" height="327" alt="image" src="https://github.com/user-attachments/assets/99668b66-e180-4a33-9df9-144d865519f3" />
+
 
 ### 📐 3. 3D Graphics Engine Pipeline (Blender POC)
 * **Core Systems Mechanics:** Standalone Swift Apple Metal graphics runtime safely executes multi-threaded 4K raytraced viewport loops with real-time working on a. Jolt Physics rigid body for dynamics ( WORK IN PROGRESS).
 * <!-- TODO: Drag and drop your 4K raytracing / Jolt physics simulation .mp4 file into the line below on GitHub -->
  🎬 https://github.com/user-attachments/assets/42ee6339-60e6-49d0-82a3-fda448a58148
 
- ### 📐  3D Graphics Engine Pipeline (Jolt Engine POC)
- 
-🎬 https://github.com/user-attachments/assets/1e1f7235-7c1e-4b84-935f-c9f72ad5e948
-
+ ### 📐 4. 3D Graphics Engine Pipeline (Jolt Engine POC)
+ 🎬 https://github.com/user-attachments/assets/1e1f7235-7c1e-4b84-935f-c9f72ad5e948
 * A POC a bridge that deforms :) a few challenges to work out .. 
+ 🎬 https://github.com/user-attachments/assets/441f37ec-85bb-4c1e-ac2b-8cbd8b495587
 
-🎬 https://github.com/user-attachments/assets/441f37ec-85bb-4c1e-ac2b-8cbd8b495587
+### 📐 5. 3D Graphics Engine Pipeline (Zbrush POC)
+* **Core Systems Mechanics:** Standalone Swift UserInterface. I wanted to see if I could make the UserInterface. It works :)
+* <!-- TODO: Drag and drop your 4K raytracing / Jolt physics simulation .mp4 file into the line below on GitHub -->
+ 🎬 https://github.com/user-attachments/assets/04adaca5-dc03-4874-9f2d-00f68888ffb0
 
-
-### 🗂️ 4. Cross-Platform Clipboard Management Utility
+### 🗂️ 6. Cross-Platform Clipboard Management Utility
 * **Core Systems Mechanics:** Implements low-level `UIPasteboard` system API interception models combined with Apple's Uniform Type Identifiers (`UTType` framework) to isolate, capture, and cache multi-format binary data streams (graphics, text, URLs) into CoreData structures.
-
 🎬 https://github.com/user-attachments/assets/bc62b107-bf53-4de4-80d2-01eabcbb20f2
 
-### 📝 5. Custom Multi-Platform Markdown Parsing Engine
+### 📝 7. Custom Multi-Platform Markdown Parsing Engine
 * **Core Systems Mechanics:** Native lexical text scanner that maps Markdown token trees into structured Abstract Syntax Trees (AST) using TextKit 2, handling secure system document providers and multi-platform drag-and-drop drop interaction lifecycles.
-* <!-- TODO: Drag and drop your markdown viewer text engine .mp4 file into the line below on GitHub -->
 🎬 https://github.com/user-attachments/assets/cc4f6ad6-f765-4759-919b-6db680546210
 
-
-### 🎨 6. Interactive Kids Touch Canvas Engine
+### 🎨 8. Interactive Kids Touch Canvas Engine
 * **Core Systems Mechanics:** High-precision, zero-latency vector path rendering application utilizing Apple's low-overhead PencilKit touch interaction layer with native palm-rejection matrices.
-* <!-- TODO: Drag and drop your canvas tool interaction .mp4 file into the line below on GitHub -->
 🎬 https://github.com/user-attachments/assets/f8b6be35-3f8f-4c80-8f4d-8b81f653e5f6
 
-### 🎨 7. Swift based MAC Widget that is both WebVIEW wrapped for quick changes to themes and simplicity. 
+### 🎨 9. Swift based MAC Widget that is both WebVIEW wrapped for quick changes to themes and simplicity. 
 Native apple for api iokit so on, can load an mp3 as your sound for warning ( warning is for battery remaining ) I dig it ! 
-*
 🎬 https://github.com/user-attachments/assets/1b9f7fb6-6336-4cba-ba05-880b4f522f6a
 
-### 🎨 8. Swift based IOS Go analyser,  you load a saved GO! game and the local llm on the ipad gives you a summary!! 
-*
+### 🎨 10. Swift based IOS Go analyser,you load a saved GO! game and the local llm on the ipad gives you a summary!! 
 🎬 https://github.com/user-attachments/assets/34fe935a-5dab-40f6-8e2c-7411af299146
 
-* <!-- TODO: Drag and drop your canvas tool interaction .mp4 file into the line below on GitHub -->
+
 
 
 ---
