@@ -58,7 +58,8 @@
 
  ### 📐 4. 3D Graphics Engine Pipeline (Jolt Engine POC)
  🎬 https://github.com/user-attachments/assets/1e1f7235-7c1e-4b84-935f-c9f72ad5e948
-* A POC a bridge that deforms :) a few challenges to work out 
+* A POC a bridge that deforms :) a few challenges to work out
+* 
  🎬 https://github.com/user-attachments/assets/441f37ec-85bb-4c1e-ac2b-8cbd8b495587
 
 ### 📐 5. 3D Graphics Engine Pipeline (Zbrush POC)
