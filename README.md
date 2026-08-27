@@ -1,141 +1,107 @@
-# 🚀 AI Project Portfolio & Systems Engineering Core
-**Robin Stahlbaum** · Senior SRE & Edge AI Systems Architect 
-📍 Mississauga, ON 416 624 9881
+# Robin Stahlbaum
+
+**Senior SRE & Edge AI Systems Architect**
+📍 Mississauga, ON &nbsp;|&nbsp; 416-624-9881 &nbsp;|&nbsp; rstahlb@gmail.com
+
+20+ years architecting and hardening enterprise Linux infrastructure — from PCI-compliant banking systems at Scotiabank to global media delivery platforms at Bell. More recently, applying that same systems-engineering discipline to edge AI: on-device multi-agent orchestration, local model fine-tuning, and native Apple-platform tooling built in Swift.
+
+**📄 Resume:** [Robin_Stahlbaum_Resume.pdf](https://rstahlb.github.io/Robin_Stahlbaum_Resume.pdf)
 
 ---
 
-## 📄 Resume
-* **Download Compiled Vector Document (Print Ready):** [Robin_Stahlbaum_Resume.pdf](https://github.io)
+## Environment
 
----
-
-# 🚀 AI Project Portfolio & Systems Engineering Core
-**Robin Stahlbaum** · Senior SRE & Edge AI Systems Architect 
-📍 Mississauga, ON
-
----
-
-## ⚡ System Context Initialized
-```micromamba
-# Active Environment Deployment Topology
-- Platform Core   :: Linux (RHEL/Ubuntu Kernel Optimization) / VMware vSphere 
-- Edge Engine     :: Apple Silicon M1 Max / M4 (16GB Unified Memory Layer)
-- Intelligence    :: Dynamic Multi-Agent Orchestration / Python (PyTorch / MLX)
-- SecOps Matrix   :: Hardened Bastion Access / CISA KEV Remediation Automation
+```
+Platform Core   :: Linux (RHEL/Ubuntu) / VMware vSphere
+Edge Engine     :: Apple Silicon M1 Max / M4 (16GB Unified Memory)
+Intelligence    :: Multi-Agent Orchestration / Python (PyTorch / MLX)
+SecOps          :: Bastion Access Architecture / CISA KEV Remediation Automation
 ```
 
 ---
 
-## 🏢 Enterprise Engineering Milestones (20+ Years SRE)
+## Enterprise Engineering Experience (20+ Years SRE)
 
-* **Infrastructure & Linux Administration (Total Cyber Solution):** Architected multi-agent cognition systems, engineered custom C++ graphics/render pipelines bridged via Objective-C++ to native Swift threads, and built automated CVE/CISA tracking services.
-* **Linux Admin / SRE (Bell Media & Bell Canada):** Supported global high-traffic content distribution pipelines using Akamai CDN, built and maintained scale RHEL environments on VMware/OpenStack, and automated system configurations using Ansible to eradicate deployment toil.
-* **Senior Linux Administrator (Scotiabank):** Provisioned and hardened PCI-compliant financial environments on vSphere, managed web application servers for global wealth management platforms, and constructed secure bastion jump-box entry frameworks utilizing SSH ProxyJump.
-* **Escalation & Support Engineering (VMware & Microsoft):** Resolved core hypervisor kernel defects, managed high-stakes production system incidents from open to closed, and troubleshot complex operating system bottlenecks for enterprise deployments.
-
----
-
-## 📺 Active Architecture Demos & Video Captures
-> *Note: High-fidelity MP4 recordings illustrating active execution runloops are mapped below.*
-
-
- 
- ### 🛡️ 1. SecWatch — Enterprise Cyber-Security Platform & Compliance Matrix
- * **Core Systems Mechanics:** Multi-pane three-column layout parsing global CVE feeds and tracking active software infrastructure variations against the CISA Known Exploited Vulnerabilities (KEV) catalog with visual WidgetKit alarm escalations.
- 🎬 https://github.com/user-attachments/assets/386503a3-2cbb-4ca7-8b3b-020db119dd40
-
-
-### 📦 2. Multi-Agent Router & Local Fine-Tuning Pipeline
-* **Core Systems Mechanics:** Dynamic orchestration framework utilizing a judgment-parsing model (Llama 3) to evaluate prompt syntax and route computing paths to downstream specialized engines (Qwen 2.5 Coder). Tracks local state persistence.
-* <!-- TODO: Drag and drop your terminal CLI routing shell .mp4 capture file into the line below on GitHub -->
-*<img width="777" height="327" alt="image" src="https://github.com/user-attachments/assets/99668b66-e180-4a33-9df9-144d865519f3" />
-
-
-### 📐 3. 3D Graphics Engine Pipeline (Blender POC)
-* **Core Systems Mechanics:** Standalone Swift Apple Metal graphics runtime safely executes multi-threaded 4K raytraced viewport loops with real-time working on a. Jolt Physics rigid body for dynamics ( WORK IN PROGRESS).
-* 
- 🎬 https://github.com/user-attachments/assets/42ee6339-60e6-49d0-82a3-fda448a58148
-
- ### 📐 4. 3D Graphics Engine Pipeline (Jolt Engine POC)
- 🎬 https://github.com/user-attachments/assets/1e1f7235-7c1e-4b84-935f-c9f72ad5e948
-* A POC a bridge that deforms :) a few challenges to work out
-* 
- 🎬 https://github.com/user-attachments/assets/441f37ec-85bb-4c1e-ac2b-8cbd8b495587
-
-### 📐 5. 3D Graphics Engine Pipeline (Zbrush POC)
-* **Core Systems Mechanics:** Standalone Swift UserInterface. I wanted to see if I could make the UserInterface. It works :)
-* <!-- TODO: Drag and drop your 4K raytracing / Jolt physics simulation .mp4 file into the line below on GitHub -->
- 🎬 https://github.com/user-attachments/assets/04adaca5-dc03-4874-9f2d-00f68888ffb0
-
-### 🗂️ 6. Cross-Platform Clipboard Management Utility
-* **Core Systems Mechanics:** Implements low-level `UIPasteboard` system API interception models combined with Apple's Uniform Type Identifiers (`UTType` framework) to isolate, capture, and cache multi-format binary data streams (graphics, text, URLs) into CoreData structures.
-🎬 https://github.com/user-attachments/assets/bc62b107-bf53-4de4-80d2-01eabcbb20f2
-
-### 📝 7. Custom Multi-Platform Markdown Parsing Engine
-* **Core Systems Mechanics:** Native lexical text scanner that maps Markdown token trees into structured Abstract Syntax Trees (AST) using TextKit 2, handling secure system document providers and multi-platform drag-and-drop drop interaction lifecycles.
-🎬 https://github.com/user-attachments/assets/cc4f6ad6-f765-4759-919b-6db680546210
-
-### 🎨 8. Interactive Kids Touch Canvas Engine
-* **Core Systems Mechanics:** High-precision, zero-latency vector path rendering application utilizing Apple's low-overhead PencilKit touch interaction layer with native palm-rejection matrices.
-🎬 https://github.com/user-attachments/assets/f8b6be35-3f8f-4c80-8f4d-8b81f653e5f6
-
-### 🎨 8.2 Another POC I used apples pencilkit and googles SKia engines, a shared Canvas :)
-🎬 https://github.com/user-attachments/assets/c5c36cb8-082e-45ff-b8d8-3b5daf3aec63
-
-
-
-
-### 🎨 9. Swift based MAC Widget that is both WebVIEW wrapped for quick changes to themes and simplicity. 
-  Native apple for api iokit so on, can load an mp3 as your sound for warning ( warning is for battery remaining )
-  I dig it ! 
-🎬 https://github.com/user-attachments/assets/1b9f7fb6-6336-4cba-ba05-880b4f522f6a
-
-### 🎨 10. Swift based IOS Go analyser,you load a saved GO! game and the local llm on the ipad gives you a summary!! 
-🎬 https://github.com/user-attachments/assets/34fe935a-5dab-40f6-8e2c-7411af299146
-
-### 🎨 11. Swift Screen Magnifier called Zoomy, Great for those who need it !
-🎬 https://github.com/user-attachments/assets/5425b63e-d1ab-4214-9de3-11c4326fc382
-<img width="786" height="311" alt="image" src="https://github.com/user-attachments/assets/2f8df510-be7c-46ca-8340-223743bc6d01" />
-
-### 🎨 12. Port to Ipad m4 , a project that is a mix of experts model, gemma 4 26b IT 4bit.  Was challenging to get working on an ipad.
-🎬 https://github.com/user-attachments/assets/251144dd-c00f-48ee-9069-752d551a56fd
-
-### 🎨 13. An mp3 wav ipad application writen in swift, focus, for guitar players to slow down a song to learn it.
-has custom markers that can be set by the user, and a looper, EQ section, using apple foundation. 
-🎬 https://github.com/user-attachments/assets/b4a137e7-c349-43ee-805a-091647b30b4a
-
-
-
-
-
-
-
-
-
-
-
-
-
+- **Infrastructure & Linux Administration — Total Cyber Solution:** Architected multi-agent cognition systems, engineered C++ graphics/render pipelines bridged via Objective-C++ to native Swift threads, and built automated CVE/CISA tracking services.
+- **Linux Admin / SRE — Bell Media & Bell Canada:** Supported global high-traffic content distribution on Akamai CDN, built and maintained RHEL environments on VMware/OpenStack at scale, and automated system configuration with Ansible.
+- **Senior Linux Administrator — Scotiabank:** Provisioned and hardened PCI-compliant financial environments on vSphere, managed web application servers for global wealth management platforms, and built secure bastion jump-box access using SSH ProxyJump.
+- **Escalation & Support Engineering — VMware & Microsoft:** Resolved core hypervisor kernel defects, managed high-stakes production incidents from open to close, and troubleshot complex OS-level bottlenecks for enterprise deployments.
 
 ---
 
-## 🧰 Technical Arsenal Matrix
+## Project Portfolio — Swift / iOS / Systems
 
-### 🧱 Core Infrastructure & Systems Programming
-* **Operating Systems:** Linux (20+ Years RHEL, Ubuntu, Debian administration), legacy Solaris 11 environments.
-* **Languages & Interop:** Swift (Advanced Concurrency, Generics), Modern C++ (C++17/20), Objective-C++, Python (PyTorch), Unix Bash.
-* **Virtualization & Storage:** VMware ESX/vSphere hypervisors, OpenStack cluster fabrics, QEMU/KVM virtualization, logical volume management (`LVM`) storage arrays, SAN scaling.
+*Independent projects, mostly built in Swift on Apple platforms. Demo videos linked where available.*
 
-### 🧠 Edge Intelligence & Machine Learning
-* **AI Architecture:** Multi-Agent Orchestration (MoA), Intelligent Semantic Query Routing, Edge Prompt Context Injection.
-* **Model Engineering:** Parameter tuning using LoRA (Low-Rank Adaptation), Human Feedback Alignment (RLHF), GGUF model quantization, Apple MLX framework optimization.
-* **Apple SDK Frameworks:** RealityKit & ARKit (Spatial LiDAR mesh tracking), WidgetKit, CoreData caching, TextKit 2 layout typography.
+### 1. SecWatch — Cybersecurity & Compliance Dashboard
+Multi-pane SwiftUI/WidgetKit app that parses live CVE feeds and tracks infrastructure exposure against the CISA Known Exploited Vulnerabilities (KEV) catalog, with automated visual alert escalation.
+🎬 [Demo](https://github.com/user-attachments/assets/386503a3-2cbb-4ca7-8b3b-020db119dd40)
+
+### 2. Multi-Agent Router & Local Fine-Tuning Pipeline
+Dynamic orchestration framework using a judgment-parsing model (Llama 3) to evaluate prompt intent and route tasks to specialized downstream models (Qwen 2.5 Coder), with local state persistence.
+
+### 3. 3D Graphics Engine — Metal Raytracing Viewport
+Standalone Swift/Apple Metal graphics runtime supporting multi-threaded, real-time 4K raytraced viewport rendering. Jolt Physics integration for rigid-body dynamics is in progress.
+🎬 [Demo](https://github.com/user-attachments/assets/42ee6339-60e6-49d0-82a3-fda448a58148)
+
+### 4. 3D Graphics Engine — Physics Bridge (Jolt POC)
+Objective-C++ bridge layer connecting a C++ physics engine to native Swift rendering threads, enabling real-time deformable-body simulation.
+🎬 [Demo](https://github.com/user-attachments/assets/1e1f7235-7c1e-4b84-935f-c9f72ad5e948) &nbsp;|&nbsp; [Demo 2](https://github.com/user-attachments/assets/441f37ec-85bb-4c1e-ac2b-8cbd8b495587)
+
+### 5. 3D Graphics Engine — Custom Sculpting UI (ZBrush POC)
+Fully custom Swift user-interface layer built for a ZBrush-style 3D sculpting tool prototype.
+🎬 [Demo](https://github.com/user-attachments/assets/04adaca5-dc03-4874-9f2d-00f68888ffb0)
+
+### 6. Cross-Platform Clipboard Manager
+Low-level `UIPasteboard` interception combined with Apple's `UTType` framework to capture and cache multi-format clipboard data (text, images, URLs) into CoreData.
+🎬 [Demo](https://github.com/user-attachments/assets/bc62b107-bf53-4de4-80d2-01eabcbb20f2)
+
+### 7. Custom Markdown Parsing Engine
+Native lexical scanner that parses Markdown into structured Abstract Syntax Trees using TextKit 2, with secure document-provider handling and cross-platform drag-and-drop support.
+🎬 [Demo](https://github.com/user-attachments/assets/cc4f6ad6-f765-4759-919b-6db680546210)
+
+### 8. Interactive Touch Canvas for Kids
+High-precision, low-latency vector-drawing app built with PencilKit, with native palm-rejection support.
+🎬 [Demo](https://github.com/user-attachments/assets/f8b6be35-3f8f-4c80-8f4d-8b81f653e5f6)
+
+### 9. Shared Canvas — PencilKit + Skia
+Prototype cross-engine shared drawing canvas combining Apple PencilKit with Google's Skia rendering engine.
+🎬 [Demo](https://github.com/user-attachments/assets/c5c36cb8-082e-45ff-b8d8-3b5daf3aec63)
+
+### 10. macOS Widget — WebView-Wrapped
+Native macOS widget using IOKit for system-level battery/power monitoring, with a WebView-wrapped UI for rapid theme iteration and custom audio alerts.
+🎬 [Demo](https://github.com/user-attachments/assets/1b9f7fb6-6336-4cba-ba05-880b4f522f6a)
+
+### 11. iOS Go-Game Analyzer
+iOS app that loads saved Go game records and uses an on-device local LLM to generate a natural-language game summary.
+🎬 [Demo](https://github.com/user-attachments/assets/34fe935a-5dab-40f6-8e2c-7411af299146)
+
+### 12. Zoomy — Screen Magnifier
+Swift-based screen magnification accessibility utility for macOS/iOS.
+🎬 [Demo](https://github.com/user-attachments/assets/5425b63e-d1ab-4214-9de3-11c4326fc382)
+
+### 13. iPad Local LLM Port (M4)
+Ported and optimized a quantized mixture-of-experts language model (Gemma) to run locally on iPad M4 hardware within tight on-device memory constraints.
+🎬 [Demo](https://github.com/user-attachments/assets/251144dd-c00f-48ee-9069-752d551a56fd)
+
+### 14. Guitar Practice App
+iOS app for slowing down audio tracks (MP3/WAV) for practice, with custom loop markers, a looper, and an EQ section built on Apple's audio frameworks.
+🎬 [Demo](https://github.com/user-attachments/assets/b4a137e7-c349-43ee-805a-091647b30b4a)
 
 ---
 
-## 📄 Verified Engineering Assets
-* **Master Professional Resume (Markdown Format):** [View Resume Source Code](secwatch_compressed.mp4)
-* **Download Compiled Vector Document:** [Robin_Stahlbaum_Resume.pdf](https://github.ioRobin_Stahlbaum_Resume.pdf)
+## Technical Arsenal
+
+**Core Infrastructure & Systems Programming**
+- **Operating Systems:** Linux (20+ years RHEL, Ubuntu, Debian administration), legacy Solaris 11
+- **Languages & Interop:** Swift (Advanced Concurrency, Generics), Modern C++ (C++17/20), Objective-C++, Python (PyTorch), Bash
+- **Virtualization & Storage:** VMware ESX/vSphere, OpenStack, QEMU/KVM, LVM, SAN scaling
+
+**Edge Intelligence & Machine Learning**
+- **AI Architecture:** Multi-Agent Orchestration (MoA), Semantic Query Routing, Edge Prompt Context Injection
+- **Model Engineering:** LoRA fine-tuning, RLHF alignment, GGUF quantization, Apple MLX
+- **Apple SDK Frameworks:** RealityKit & ARKit, WidgetKit, CoreData, TextKit 2
 
 ---
-<sub>*Built with 🧠 curiosity on Apple Silicon Mac hardware. Source code architecture verified stable.*</sub>
+
+*Built on Apple Silicon. Source verified stable.*
