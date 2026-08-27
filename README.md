@@ -53,7 +53,6 @@
 
 ### 📐 3. 3D Graphics Engine Pipeline (Blender POC)
 * **Core Systems Mechanics:** Standalone Swift Apple Metal graphics runtime safely executes multi-threaded 4K raytraced viewport loops with real-time working on a. Jolt Physics rigid body for dynamics ( WORK IN PROGRESS).
-* <!-- TODO: Drag and drop your 4K raytracing / Jolt physics simulation .mp4 file into the line below on GitHub -->
  🎬 https://github.com/user-attachments/assets/42ee6339-60e6-49d0-82a3-fda448a58148
 
  ### 📐 4. 3D Graphics Engine Pipeline (Jolt Engine POC)
