@@ -1,3 +1,29 @@
+# 🚀 AI Project Portfolio & Systems Engineering Core
+**Robin Stahlbaum** · Senior SRE & Edge AI Systems Architect 
+📍 Mississauga, ON | 🌐 [Live Interactive Interface](https://github.io)
+
+---
+
+## 📄 Verified Engineering Assets
+* **Master Professional Resume (Markdown Format):** [View Resume Source Code](https://github.com)
+* **Download Compiled Vector Document (Print Ready):** [Robin_Stahlbaum_Resume.pdf](https://github.io)
+* **Interactive Live Portfolio Dashboard (Web UI):** [Launch Live Interface](https://github.io)
+
+---
+
+# 🚀 AI Project Portfolio & Systems Engineering Core
+**Robin Stahlbaum** · Senior SRE & Edge AI Systems Architect 
+📍 Mississauga, ON | 🌐 [Live Interactive Interface](https://github.io)
+
+---
+
+## 📄 Verified Engineering Assets
+* **Master Professional Resume (Markdown Format):** [View Resume Source Code](https://github.com)
+* **Download Compiled Vector Document (Print Ready):** [Robin_Stahlbaum_Resume.pdf](https://github.io)
+* **Interactive Live Portfolio Dashboard (Web UI):** [Launch Live Interface](https://github.io)
+
+---
+
 # Robin Stahlbaum 🛠️🧠
 ### Senior Infrastructure Engineer · Site Reliability Architect · Edge AI Engineer
 📍 Mississauga, ON | 💼 [Available for Senior SRE & Core AI Contracts] | 🌐 [rstahlb.github.io](https://github.io)
