@@ -70,27 +70,27 @@
  🎬 https://github.com/user-attachments/assets/42ee6339-60e6-49d0-82a3-fda448a58148
 
  ### 📐  3D Graphics Engine Pipeline (Jolt Engine POC)
- 🎬 https://github.com/user-attachments/assets/1e1f7235-7c1e-4b84-935f-c9f72ad5e948
+ 
+🎬 https://github.com/user-attachments/assets/1e1f7235-7c1e-4b84-935f-c9f72ad5e948
 
 
 ### 🗂️ 4. Cross-Platform Clipboard Management Utility
 * **Core Systems Mechanics:** Implements low-level `UIPasteboard` system API interception models combined with Apple's Uniform Type Identifiers (`UTType` framework) to isolate, capture, and cache multi-format binary data streams (graphics, text, URLs) into CoreData structures.
-* <!-- TODO: Drag and drop your clipboard utility runtime .mp4 file into the line below on GitHub -->
-* *[PLACEHOLDER: INSERT CLIPBOARD MANAGER UTILITY VIDEO HERE]*
+🎬 https://github.com/user-attachments/assets/f8b6be35-3f8f-4c80-8f4d-8b81f653e5f6
 
-### 📝 6. Custom Multi-Platform Markdown Parsing Engine
+
+### 📝 5. Custom Multi-Platform Markdown Parsing Engine
 * **Core Systems Mechanics:** Native lexical text scanner that maps Markdown token trees into structured Abstract Syntax Trees (AST) using TextKit 2, handling secure system document providers and multi-platform drag-and-drop drop interaction lifecycles.
 * <!-- TODO: Drag and drop your markdown viewer text engine .mp4 file into the line below on GitHub -->
 🎬 https://github.com/user-attachments/assets/cc4f6ad6-f765-4759-919b-6db680546210
 
 
-
-
-
-### 🎨 7. Interactive Kids Touch Canvas Engine
+### 🎨 6. Interactive Kids Touch Canvas Engine
 * **Core Systems Mechanics:** High-precision, zero-latency vector path rendering application utilizing Apple's low-overhead PencilKit touch interaction layer with native palm-rejection matrices.
 * <!-- TODO: Drag and drop your canvas tool interaction .mp4 file into the line below on GitHub -->
-🎬 https://github.com/user-attachments/assets/f8b6be35-3f8f-4c80-8f4d-8b81f653e5f6
+🎬 https://github.com/user-attachments/assets/bc62b107-bf53-4de4-80d2-01eabcbb20f2
+
+
 
 ---
 
