@@ -84,7 +84,11 @@
 ### 📝 6. Custom Multi-Platform Markdown Parsing Engine
 * **Core Systems Mechanics:** Native lexical text scanner that maps Markdown token trees into structured Abstract Syntax Trees (AST) using TextKit 2, handling secure system document providers and multi-platform drag-and-drop drop interaction lifecycles.
 * <!-- TODO: Drag and drop your markdown viewer text engine .mp4 file into the line below on GitHub -->
-* *[PLACEHOLDER: INSERT MARKDOWN PARSER TEXT ENGINE VIDEO HERE]*
+🎬 https://github.com/user-attachments/assets/cc4f6ad6-f765-4759-919b-6db680546210
+
+
+
+
 
 ### 🎨 7. Interactive Kids Touch Canvas Engine
 * **Core Systems Mechanics:** High-precision, zero-latency vector path rendering application utilizing Apple's low-overhead PencilKit touch interaction layer with native palm-rejection matrices.
