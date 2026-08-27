@@ -73,10 +73,7 @@
  🎬 https://github.com/user-attachments/assets/1e1f7235-7c1e-4b84-935f-c9f72ad5e948
 
 
-
-
-
-### 🗂️ 5. Cross-Platform Clipboard Management Utility
+### 🗂️ 4. Cross-Platform Clipboard Management Utility
 * **Core Systems Mechanics:** Implements low-level `UIPasteboard` system API interception models combined with Apple's Uniform Type Identifiers (`UTType` framework) to isolate, capture, and cache multi-format binary data streams (graphics, text, URLs) into CoreData structures.
 * <!-- TODO: Drag and drop your clipboard utility runtime .mp4 file into the line below on GitHub -->
 * *[PLACEHOLDER: INSERT CLIPBOARD MANAGER UTILITY VIDEO HERE]*
@@ -93,7 +90,7 @@
 ### 🎨 7. Interactive Kids Touch Canvas Engine
 * **Core Systems Mechanics:** High-precision, zero-latency vector path rendering application utilizing Apple's low-overhead PencilKit touch interaction layer with native palm-rejection matrices.
 * <!-- TODO: Drag and drop your canvas tool interaction .mp4 file into the line below on GitHub -->
-* *[PLACEHOLDER: INSERT PENCILKIT CANVAS APP VIDEO HERE]*
+🎬 https://github.com/user-attachments/assets/f8b6be35-3f8f-4c80-8f4d-8b81f653e5f6
 
 ---
 
