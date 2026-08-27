@@ -90,6 +90,10 @@
 🎬 https://github.com/user-attachments/assets/5425b63e-d1ab-4214-9de3-11c4326fc382
 <img width="786" height="311" alt="image" src="https://github.com/user-attachments/assets/2f8df510-be7c-46ca-8340-223743bc6d01" />
 
+### 🎨 12. Port to Ipad m4 , a project that is a mix of experts model, gemma 4 26b IT 4bit.  Was challenging to get working on an ipad.
+
+🎬 https://github.com/user-attachments/assets/251144dd-c00f-48ee-9069-752d551a56fd
+
 
 
 
