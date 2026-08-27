@@ -68,7 +68,13 @@
 ### 📐 4. 3D Graphics Engine Pipeline (Blender POC)
 * **Core Systems Mechanics:** Standalone C++ graphics runtime proving compilation interoperability via native Objective-C++ bridging layers to safely execute multi-threaded 4K raytraced viewport loops with real-time Jolt Physics rigid body dynamics.
 * <!-- TODO: Drag and drop your 4K raytracing / Jolt physics simulation .mp4 file into the line below on GitHub -->
-* *[PLACEHOLDER: INSERT C++ RAYTRACER & PHYSICS ENGINE VIDEO HERE]*
+ 🎬 https://github.com/user-attachments/assets/42ee6339-60e6-49d0-82a3-fda448a58148
+
+ 
+
+
+
+
 
 ### 🗂️ 5. Cross-Platform Clipboard Management Utility
 * **Core Systems Mechanics:** Implements low-level `UIPasteboard` system API interception models combined with Apple's Uniform Type Identifiers (`UTType` framework) to isolate, capture, and cache multi-format binary data streams (graphics, text, URLs) into CoreData structures.
