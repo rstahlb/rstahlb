@@ -60,6 +60,10 @@
  
 🎬 https://github.com/user-attachments/assets/1e1f7235-7c1e-4b84-935f-c9f72ad5e948
 
+* A POC a bridge that deforms :) a few challenges to work out .. 
+
+🎬 https://github.com/user-attachments/assets/441f37ec-85bb-4c1e-ac2b-8cbd8b495587
+
 
 ### 🗂️ 4. Cross-Platform Clipboard Management Utility
 * **Core Systems Mechanics:** Implements low-level `UIPasteboard` system API interception models combined with Apple's Uniform Type Identifiers (`UTType` framework) to isolate, capture, and cache multi-format binary data streams (graphics, text, URLs) into CoreData structures.
