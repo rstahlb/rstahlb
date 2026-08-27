@@ -56,7 +56,7 @@
 ### 🤖 1. George AI — Autonomous Multi-Agent Edge Orchestrator
 * **Core Systems Mechanics:** Employs a three-agent cognitive layout (Past/Present/Future) executing on-device local RAG operations, voice-canvas synthesis streaming via `AVAudioEngine`, and active context-fact mining matrices natively on Apple Silicon GPU fabrics.
 * <!-- TODO: Drag and drop your George runtime .mp4 file directly into the line below on GitHub to auto-generate the video tag -->
-* 🎬 **[Click to Stream George Local AI Runloop Video]([https://github.com](https://github.com/rstahlb/Local-Agentic-Orchestrator/blob/main/ScreenRecording_08-27-2026%2010-46-39_1.MP4))**
+
 
 ### 🛡️ 2. SecWatch — Enterprise Cyber-Security Platform & Compliance Matrix
 * **Core Systems Mechanics:** Multi-pane three-column layout parsing global CVE feeds and tracking active software infrastructure variations against the CISA Known Exploited Vulnerabilities (KEV) catalog with visual WidgetKit alarm escalations.
