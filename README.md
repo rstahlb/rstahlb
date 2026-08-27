@@ -76,6 +76,7 @@
 
 ### 🗂️ 4. Cross-Platform Clipboard Management Utility
 * **Core Systems Mechanics:** Implements low-level `UIPasteboard` system API interception models combined with Apple's Uniform Type Identifiers (`UTType` framework) to isolate, capture, and cache multi-format binary data streams (graphics, text, URLs) into CoreData structures.
+
 🎬 https://github.com/user-attachments/assets/bc62b107-bf53-4de4-80d2-01eabcbb20f2
 
 ### 📝 5. Custom Multi-Platform Markdown Parsing Engine
@@ -89,6 +90,14 @@
 * <!-- TODO: Drag and drop your canvas tool interaction .mp4 file into the line below on GitHub -->
 🎬 https://github.com/user-attachments/assets/f8b6be35-3f8f-4c80-8f4d-8b81f653e5f6
 
+### 🎨 7. Swift based MAC Widget that is both WebVIEW wrapped for quick changes to themes and simplicity. 
+Native apple for api iokit so on, can load an mp3 as your sound for warning ( warning is for battery remaining ) I dig it ! 
+*
+🎬 https://github.com/user-attachments/assets/93a1b601-3835-465e-8ecc-63b737e5301a
+
+
+
+* <!-- TODO: Drag and drop your canvas tool interaction .mp4 file into the line below on GitHub -->
 
 
 ---
